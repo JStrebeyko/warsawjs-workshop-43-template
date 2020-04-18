@@ -1,0 +1,41 @@
+/* RESETS */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+/* NAVBAR */
+nav {
+    height: 70px;
+    width: 100vw;
+    background-color: orange;
+    position: fixed;
+    top: 0;
+    color: black;
+}
+
+h1 {
+    padding-left: 10px;
+}
+
+
+/* CONTAINER */
+#container {
+    padding-top: 70px; /* navbar height */
+}
+
+img {
+    width: 33.3333333%
+}
+
+/* BOTTOM BUTTON */
+button#load-more {
+    width: 100%;
+    height: 70px;
+    background-color: red;
+    color: white;
+}
