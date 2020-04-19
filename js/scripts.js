@@ -45,4 +45,4 @@ function appendData(newData) {
 
 fetchIt()
 
-btn.addEventListener('click', fetchIt)
+// btn.addEventListener('click', fetchIt)
